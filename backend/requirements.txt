@@ -1,0 +1,14 @@
+
+mysql-connector-python
+Flask
+Flask-CORS
+python-dotenv
+dlib
+tensorflow==2.15.0
+numpy
+opencv-python
+scikit-learn
+twilio
+nltk
+pandas
+rapidfuzz
