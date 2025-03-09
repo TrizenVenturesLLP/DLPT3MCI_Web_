@@ -17,3 +17,6 @@ pip install -r requirements.txt
 
 python app.py
 ```
+
+Extract the model zip and keep it in 
+backend --> assets --> model 
